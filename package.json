@@ -1,37 +1,37 @@
 {
-  "name": "fem-manage-landing-page",
-  "private": true,
-  "version": "0.0.0",
-  "author": {
-    "name": "James Romero, Blue Royalty",
-    "email": "romerojameslabr@gmail.com",
-    "url": "https://jamesromero-homepage.vercel.app/"
-  },
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "prepare": "husky install"
-  },
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "sass": "^1.50.0"
-  },
-  "devDependencies": {
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0",
-    "@vitejs/plugin-react": "^1.3.0",
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "2.25.3",
-    "eslint-plugin-jsx-a11y": "6.5.1",
-    "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-react": "^7.28.0",
-    "eslint-plugin-react-hooks": "4.3.0",
-    "husky": "^7.0.0",
-    "prettier": "^2.6.2",
-    "vite": "^2.9.2"
-  }
+	"name": "fem-manage-landing-page",
+	"private": true,
+	"version": "0.0.0",
+	"author": {
+		"name": "James Romero, Blue Royalty",
+		"email": "romerojameslabr@gmail.com",
+		"url": "https://jamesromero-homepage.vercel.app/"
+	},
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "husky install"
+	},
+	"dependencies": {
+		"react": "^18.0.0",
+		"react-dom": "^18.0.0",
+		"sass": "^1.50.0"
+	},
+	"devDependencies": {
+		"@types/react": "^18.0.0",
+		"@types/react-dom": "^18.0.0",
+		"@vitejs/plugin-react": "^1.3.0",
+		"eslint": "^7.32.0",
+		"eslint-config-airbnb": "^19.0.4",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-import": "2.25.3",
+		"eslint-plugin-jsx-a11y": "6.5.1",
+		"eslint-plugin-prettier": "^4.0.0",
+		"eslint-plugin-react": "^7.28.0",
+		"eslint-plugin-react-hooks": "4.3.0",
+		"husky": "^7.0.0",
+		"prettier": "^2.6.2",
+		"vite": "^2.9.2"
+	}
 }
